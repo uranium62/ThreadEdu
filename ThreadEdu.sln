@@ -39,6 +39,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BillionTasks", "BillionTask
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProduceConsumePattern", "ProduceConsumePattern\ProduceConsumePattern.csproj", "{12EF71D4-7E55-448C-BE7D-F708E8F6472B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskTimeoutPattern", "TaskTimeoutPattern\TaskTimeoutPattern.csproj", "{6DB2DB49-44C5-49D4-8AB1-4F3B9FB80986}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -191,6 +193,14 @@ Global
 		{12EF71D4-7E55-448C-BE7D-F708E8F6472B}.Release|Any CPU.Build.0 = Release|Any CPU
 		{12EF71D4-7E55-448C-BE7D-F708E8F6472B}.Release|x64.ActiveCfg = Release|Any CPU
 		{12EF71D4-7E55-448C-BE7D-F708E8F6472B}.Release|x64.Build.0 = Release|Any CPU
+		{6DB2DB49-44C5-49D4-8AB1-4F3B9FB80986}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DB2DB49-44C5-49D4-8AB1-4F3B9FB80986}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DB2DB49-44C5-49D4-8AB1-4F3B9FB80986}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{6DB2DB49-44C5-49D4-8AB1-4F3B9FB80986}.Debug|x64.Build.0 = Debug|Any CPU
+		{6DB2DB49-44C5-49D4-8AB1-4F3B9FB80986}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DB2DB49-44C5-49D4-8AB1-4F3B9FB80986}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DB2DB49-44C5-49D4-8AB1-4F3B9FB80986}.Release|x64.ActiveCfg = Release|Any CPU
+		{6DB2DB49-44C5-49D4-8AB1-4F3B9FB80986}.Release|x64.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
